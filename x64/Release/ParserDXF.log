@@ -1,0 +1,22 @@
+﻿  classCircle.cpp
+  classEllipse.cpp
+  classPoint.cpp
+  classPolyline.cpp
+  classShape.cpp
+  classVertex.cpp
+  del.cpp
+  functions.cpp
+  main.cpp
+  print.cpp
+  read.cpp
+  readCircle.cpp
+  readEllipse.cpp
+  readPoint.cpp
+  readPolyline.cpp
+  readVertex.cpp
+  write.cpp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 334 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  ParserDXF.vcxproj -> C:\Users\crist\Source\Repos\ParserDXF\x64\Release\ParserDXF.exe

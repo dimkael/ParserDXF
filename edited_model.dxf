@@ -1,0 +1,658 @@
+  0
+SECTION
+  2
+ENTITIES
+  0
+CIRCLE
+  5
+28
+100
+AcDbEntity
+  8
+0
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 30
+0
+ 40
+2.43615
+  0
+POLYLINE
+  5
+29
+100
+AcDbEntity
+  8
+0
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0
+ 70
+     1
+  0
+VERTEX
+  5
+2A
+100
+AcDbEntity
+  8
+0
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+3.78526
+ 20
+0.264966
+ 30
+0
+  0
+VERTEX
+  5
+2B
+100
+AcDbEntity
+  8
+0
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+2.135
+ 20
+3.2583
+ 30
+0
+  0
+VERTEX
+  5
+2C
+100
+AcDbEntity
+  8
+0
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+-1.2342
+ 20
+3.83438
+ 30
+0
+  0
+VERTEX
+  5
+2D
+100
+AcDbEntity
+  8
+0
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+-3.78526
+ 20
+1.55941
+ 30
+0
+  0
+VERTEX
+  5
+2E
+100
+AcDbEntity
+  8
+0
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+-3.59719
+ 20
+-1.85351
+ 30
+0
+  0
+VERTEX
+  5
+2F
+100
+AcDbEntity
+  8
+0
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+-0.811592
+ 20
+-3.83438
+ 30
+0
+  0
+VERTEX
+  5
+30
+100
+AcDbEntity
+  8
+0
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+2.47391
+ 20
+-2.89157
+ 30
+0
+  0
+SEQEND
+  0
+ELLIPSE
+  5
+32
+100
+AcDbEntity
+  8
+0
+100
+AcDbEllipse
+ 10
+0
+ 20
+0
+ 30
+0
+ 11
+2.57679
+ 21
+1.49007
+ 31
+0
+210
+0
+220
+0
+230
+1
+ 40
+0.5404
+ 41
+0
+ 42
+6.28319
+  0
+POINT
+  5
+33
+100
+AcDbEntity
+  8
+0
+100
+AcDbPoint
+ 10
+0
+ 20
+0
+ 30
+0
+  0
+POINT
+  5
+34
+100
+AcDbEntity
+  8
+0
+100
+AcDbPoint
+ 10
+0
+ 20
+0
+ 30
+0
+  0
+POINT
+  5
+35
+100
+AcDbEntity
+  8
+0
+100
+AcDbPoint
+ 10
+0
+ 20
+0
+ 30
+0
+  0
+POINT
+  5
+36
+100
+AcDbEntity
+  8
+0
+100
+AcDbPoint
+ 10
+0
+ 20
+0
+ 30
+0
+  0
+POLYLINE
+  5
+37
+100
+AcDbEntity
+  8
+0
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0
+ 70
+     1
+  0
+VERTEX
+  5
+38
+100
+AcDbEntity
+  8
+0
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+3.78526
+ 20
+0.264966
+ 30
+0
+  0
+VERTEX
+  5
+39
+100
+AcDbEntity
+  8
+0
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+2.135
+ 20
+3.2583
+ 30
+0
+  0
+VERTEX
+  5
+3A
+100
+AcDbEntity
+  8
+0
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+-1.2342
+ 20
+3.83438
+ 30
+0
+  0
+VERTEX
+  5
+3B
+100
+AcDbEntity
+  8
+0
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+-3.78526
+ 20
+1.55942
+ 30
+0
+  0
+VERTEX
+  5
+3C
+100
+AcDbEntity
+  8
+0
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+-3.59719
+ 20
+-1.8535
+ 30
+0
+  0
+VERTEX
+  5
+3D
+100
+AcDbEntity
+  8
+0
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+-0.811594
+ 20
+-3.83438
+ 30
+0
+  0
+VERTEX
+  5
+3E
+100
+AcDbEntity
+  8
+0
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+2.47391
+ 20
+-2.89157
+ 30
+0
+  0
+SEQEND
+  0
+CIRCLE
+  5
+40
+100
+AcDbEntity
+  8
+0
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 30
+0
+ 40
+2.43615
+  0
+CIRCLE
+  5
+41
+100
+AcDbEntity
+  8
+0
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 30
+0
+ 40
+2.43615
+  0
+CIRCLE
+  5
+42
+100
+AcDbEntity
+  8
+0
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 30
+0
+ 40
+2.43615
+  0
+CIRCLE
+  5
+43
+100
+AcDbEntity
+  8
+0
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 30
+0
+ 40
+2.43615
+  0
+CIRCLE
+  5
+44
+100
+AcDbEntity
+  8
+0
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 30
+0
+ 40
+2.43615
+  0
+POLYLINE
+  5
+45
+100
+AcDbEntity
+  8
+0
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0
+ 70
+     0
+  0
+VERTEX
+  5
+46
+100
+AcDbEntity
+  8
+0
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+-2.97009
+ 20
+-3.03432
+ 30
+0
+  0
+VERTEX
+  5
+47
+100
+AcDbEntity
+  8
+0
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+-2.56322
+ 20
+-0.623119
+ 30
+0
+  0
+VERTEX
+  5
+48
+100
+AcDbEntity
+  8
+0
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+-0.962904
+ 20
+0.216737
+ 30
+0
+  0
+VERTEX
+  5
+49
+100
+AcDbEntity
+  8
+0
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+0.745913
+ 20
+-1.11078
+ 30
+0
+  0
+VERTEX
+  5
+4A
+100
+AcDbEntity
+  8
+0
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+2.67172
+ 20
+-0.541842
+ 30
+0
+  0
+VERTEX
+  5
+4B
+100
+AcDbEntity
+  8
+0
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+2.97009
+ 20
+2.70922
+ 30
+0
+  0
+VERTEX
+  5
+4C
+100
+AcDbEntity
+  8
+0
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+-0.962904
+ 20
+3.03432
+ 30
+0
+  0
+SEQEND
+  0
+ENDSEC
+  0
+EOF
